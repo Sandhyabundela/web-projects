@@ -1,0 +1,197 @@
+body
+.top_bar{
+	background:#f26522; padding: 5px 0;
+	letter-spacing: 10px;
+
+}
+.contact_infos{
+	color: #fff;
+	font-size: 17px;
+	letter-spacing: 0px;
+
+
+}
+.icons{
+	margin-left:20px;
+}
+
+
+
+.my_menu{
+	margin-top: 30px;
+}
+.my_menu .navbar-default{
+	background:none; border: none;
+
+
+}
+
+.my_menu .navbar-nav .active a,
+.my_menu .navbar-nav .active a:hover{
+	background:#f25522; color: #fff;
+}
+.my_menu .navbar-nav li a:hover{
+	background:#f25522; color: #fff;
+}
+@media (max-width: 600px)
+{
+ .course {class*="col-"}
+ {
+	margin-bottom:36px;
+ }
+
+ }
+@media (max-width: 1200px) {
+	.my_menu .pull-right{float:none !important;}
+}
+.language{
+	margin-top: 35px;
+margin-right: 0px;
+	padding: 30px;
+
+}
+.content{
+	margin-top: 35px;
+	text-align: center;
+}
+.content-area{
+	margin-top: 40px;
+	font-size: 24px;
+	margin-left: 170px;
+	margin-bottom: 10px;
+
+}
+.content1{
+	font-size: 20px;
+	margin-left: 170px;
+}
+
+.course{
+	background: radial-gradient(circle, #009cde, #003087); padding: 25px 0px;
+}
+
+ .course h1{
+ 	color: #fff;
+ margin-top: 20px;
+ font-size: 38px;
+
+ }
+ .course .margin{
+ 		margin-top: 50px;
+  	margin-right: 5px;
+  	margin-left: 40px;
+ }
+  .course .top_margin{
+  	margin-top: 50px;
+  	margin-right: 5px;
+  	margin-left: 40px;
+
+ }
+ .img-responsive{
+	 width: 100%;
+	 max-width: 100px;
+	 height: auto;
+ }
+
+
+.footer{
+ 		background:#333333; padding: 20px;
+ 	}
+ 	.footer{
+ 		color: #fff;
+ 	}
+ 	.footer p{
+ 		color: #fff; margin-top: 10px; margin-bottom: 5px;
+ 	}
+ 	.footer ul{
+ 		list-style: none; margin: 0px; padding: 0px;
+
+ 	}
+ 	.footer ul li a{
+ 		color: #fff; font-size: 15px;
+ 	}
+ 	.footer .social{
+
+ 		font-size: 10px;
+ 	}
+
+.fa{
+  padding: 10px;
+  font-size: 20px;
+  width: 30px;
+  text-decoration: none;
+  margin: 6px 3px;
+  border-radius: 50%;
+  top:5%;
+  margin-left: 5px;
+  text-align : left;
+  }
+
+.fa :hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+
+
+
+
+
+
+
+.fa{
+  padding: 6px;
+  font-size: 10px;
+  width: 5px;
+  text-decoration: none;
+  margin: 6px 3px;
+  border-radius: 40%;
+  top:5%;
+  margin-left: 0px;
+  text-align : left;
+  }
+
+.fa :hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
